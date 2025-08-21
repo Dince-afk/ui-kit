@@ -1,6 +1,6 @@
 {
   "name": "@dince-afk/ui-kit",
-  "version": "0.1.0",
+  "version": "0.2.4",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -8,7 +8,17 @@
   "author": "",
   "license": "ISC",
   "description": "",
+  "repository": {
+    "url": "https://github.com/Dince-afk/ui-kit",
+    "type": "git"
+  },
+  "bugs": {
+    "url": "https://github.com/Dince-afk/ui-kit/issues"
+  },
+  "devDependencies": {
+    "typescript": "^5.9.2"
+  },
   "peerDependencies": {
-    "ci-info": "^4.3.0"
+    "react": "^19.1.1"
   }
 }
