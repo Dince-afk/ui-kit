@@ -12,9 +12,6 @@
     "url": "https://github.com/Dince-afk/ui-kit",
     "type": "git"
   },
-  "bugs": {
-    "url": "https://github.com/Dince-afk/ui-kit/issues"
-  },
   "devDependencies": {
     "typescript": "^5.9.2"
   },
