@@ -1,6 +1,8 @@
-// const ciInfo = require("ci-info");
-// console.log(ciInfo);
-
-export default function test() {
+function test() {
   console.log("Hello!");
 }
+
+module.exports = { test };
+
+// import react from "react";
+// console.log(react);
