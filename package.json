@@ -8,12 +8,19 @@
   },
   "author": "",
   "license": "ISC",
-  "description": "",
+  "description": "React components and other useful code used across multiple projects.",
   "repository": {
-    "url": "https://github.com/Dince-afk/ui-kit",
+    "url": "git+https://github.com/Dince-afk/ui-kit.git",
     "type": "git"
   },
+  "files": [
+    "src"
+  ],
   "devDependencies": {
+    "@eslint/js": "^9.34.0",
+    "eslint": "^9.34.0",
+    "eslint-plugin-react": "^7.37.5",
+    "globals": "^16.3.0",
     "typescript": "^5.9.2"
   },
   "peerDependencies": {

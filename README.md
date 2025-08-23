@@ -1,4 +1,4 @@
-# @dince-afk/ui-kit
+# `@dince-afk/ui-kit`
 
 ## Installation
 
