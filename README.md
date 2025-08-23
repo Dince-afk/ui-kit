@@ -1,4 +1,5 @@
 # `@dince-afk/ui-kit`
+React components and other useful code used across multiple projects.
 
 ## Installation
 
