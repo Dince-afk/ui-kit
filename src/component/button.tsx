@@ -1,3 +1,8 @@
 export function Button() {
-  return <button>Press</button>;
+  return (
+    <div>
+      <dino>Test</dino>
+      <button>Press</button>
+    </div>
+  );
 }
